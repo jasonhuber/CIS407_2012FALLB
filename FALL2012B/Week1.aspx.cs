@@ -13,5 +13,10 @@ namespace FALL2012B
         {
 
         }
+
+        protected void btnAdd_Click(object sender, EventArgs e)
+        {
+            lblResult.Text = (int.Parse(txtNum1.Text) + int.Parse(txtNum2.Text)).ToString();
+        }
     }
 }
