@@ -1,0 +1,4 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\FALL2012B\bin\FALL2012B.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\FALL2012B\bin\FALL2012B.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\FALL2012B\obj\Debug\FALL2012B.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\FALL2012B\obj\Debug\FALL2012B.pdb
