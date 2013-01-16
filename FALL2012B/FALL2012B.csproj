@@ -70,6 +70,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="Week1.aspx" />
+    <Content Include="Week2.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="About.aspx.cs">
@@ -131,6 +132,13 @@
     </Compile>
     <Compile Include="Week1.aspx.designer.cs">
       <DependentUpon>Week1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Week2.aspx.cs">
+      <DependentUpon>Week2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Week2.aspx.designer.cs">
+      <DependentUpon>Week2.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
