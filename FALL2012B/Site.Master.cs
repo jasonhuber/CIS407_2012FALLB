@@ -41,6 +41,9 @@ namespace FALL2012B
 
             comm.ExecuteNonQuery();
 
+            SQL = "delete from huber_tracker12 where usertrackerid not in (select top 300 usertrackerid from huber_tracker12 order by trackwhen desc)";
+                comm.CommandText = SQL;
+            comm.ExecuteNonQuery();
 
         }
     }

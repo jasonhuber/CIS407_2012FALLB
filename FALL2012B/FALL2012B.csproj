@@ -72,6 +72,7 @@
     <Content Include="Week1.aspx" />
     <Content Include="Week2.aspx" />
     <Content Include="Week3.aspx" />
+    <Content Include="Week4.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="About.aspx.cs">
@@ -147,6 +148,13 @@
     </Compile>
     <Compile Include="Week3.aspx.designer.cs">
       <DependentUpon>Week3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Week4.aspx.cs">
+      <DependentUpon>Week4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Week4.aspx.designer.cs">
+      <DependentUpon>Week4.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
