@@ -15,7 +15,7 @@ namespace FALL2012B
             {
                 if (Request.ServerVariables[item].Length > 1)
                 {
-                    DoallThetracking(item, Request.ServerVariables[item]);
+                   // DoallThetracking(item, Request.ServerVariables[item]);
                 }
             }
             //DoallThetracking("IP", Request.ServerVariables["REMOTE_ADDR"]);
@@ -44,6 +44,9 @@ namespace FALL2012B
             SQL = "delete from huber_tracker12 where usertrackerid not in (select top 300 usertrackerid from huber_tracker12 order by trackwhen desc)";
                 comm.CommandText = SQL;
             comm.ExecuteNonQuery();
+      
+            conn.Close();
+                
 
         }
     }

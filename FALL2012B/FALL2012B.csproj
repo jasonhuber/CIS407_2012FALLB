@@ -73,6 +73,7 @@
     <Content Include="Week2.aspx" />
     <Content Include="Week3.aspx" />
     <Content Include="Week4.aspx" />
+    <Content Include="week5.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="About.aspx.cs">
@@ -156,6 +157,13 @@
     <Compile Include="Week4.aspx.designer.cs">
       <DependentUpon>Week4.aspx</DependentUpon>
     </Compile>
+    <Compile Include="week5.aspx.cs">
+      <DependentUpon>week5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="week5.aspx.designer.cs">
+      <DependentUpon>week5.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -163,6 +171,12 @@
   <ItemGroup>
     <Content Include="Account\Web.config" />
     <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Databaser\Databaser.csproj">
+      <Project>{AA4C581F-611E-46AA-852B-059E262FF774}</Project>
+      <Name>Databaser</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

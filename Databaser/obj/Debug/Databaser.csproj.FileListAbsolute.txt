@@ -1,0 +1,4 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\Databaser\bin\Debug\Databaser.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\Databaser\bin\Debug\Databaser.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\Databaser\obj\Debug\Databaser.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\Databaser\obj\Debug\Databaser.pdb
