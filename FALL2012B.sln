@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FALL2012B", "FALL2012B\FALL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databaser", "Databaser\Databaser.csproj", "{AA4C581F-611E-46AA-852B-059E262FF774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuberCalc", "HuberCalc\HuberCalc.csproj", "{74355964-4E22-4A86-AA7E-10B504658647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{AA4C581F-611E-46AA-852B-059E262FF774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA4C581F-611E-46AA-852B-059E262FF774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA4C581F-611E-46AA-852B-059E262FF774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74355964-4E22-4A86-AA7E-10B504658647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74355964-4E22-4A86-AA7E-10B504658647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74355964-4E22-4A86-AA7E-10B504658647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74355964-4E22-4A86-AA7E-10B504658647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

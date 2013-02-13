@@ -1,0 +1,4 @@
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\HuberCalc\bin\Debug\HuberCalc.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\HuberCalc\bin\Debug\HuberCalc.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\HuberCalc\obj\Debug\HuberCalc.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\HuberCalc\obj\Debug\HuberCalc.pdb

@@ -9,3 +9,5 @@ C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\obj\Deb
 C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\obj\Debug\FALL2012B.csprojResolveAssemblyReference.cache
 C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\bin\Databaser.dll
 C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\bin\Databaser.pdb
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\bin\HuberCalc.dll
+C:\Users\Jason\Dropbox\Devry\CIS407\FALL2012B\CIS407_2012FALLB\FALL2012B\bin\HuberCalc.pdb
