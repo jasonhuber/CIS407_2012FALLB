@@ -45,8 +45,9 @@ namespace FALL2012B
             if (result != null)
             {
                 //send them where i choose:
-
+                Session["UserLevel"] = result.ToString();
                 System.Web.Security.FormsAuthentication.SetAuthCookie(txtUserName.Text, false);
+                System.Threading.Thread.Sleep(1000);
                 Response.Redirect("Week4.aspx");
 
                 //send them where they tried to go:
